@@ -1,0 +1,15 @@
+# BMI
+# Instructions:
+# The body mass index (BMI) was created by a Belgian mathematician in the 1850s and it's used by health and nutrition professionals
+# to estimate human body fat in certain populations.
+
+# It is computed by taking an individual's weight (mass) in kilograms and dividing it by the sqyare of their height in meters.
+# Create a bmi.py program that calculates your own BMI.
+
+#code:
+weight = 92.3
+height = 1.86
+
+bmi = weight / (height**2)
+
+print(bmi)
