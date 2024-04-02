@@ -1,4 +1,8 @@
-# Temperature 🌡
+# Instruction
+# Create a temperature.py program that converts a temperature from Fahrenheit to Celsius
+# Google the current temperature of Brooklyn, NY (where Codedex is based) in Fahrenheit.
+# Use the following formula and write it out in Pythong
+# Formula: Celsius = (Fahrenheit - 32) / 1.8
 
 temp_f = 56
 temp_c = (temp_f - 32) / 1.8
